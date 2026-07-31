@@ -1,9 +1,5 @@
 # ⚛️ React Revision Handbook
-> 📚 Based on Hitesh Choudhary's **Chai aur React** Playlist (Videos 1–22)
 
-A quick revision guide for React. This is **not detailed notes**—it's designed to refresh concepts quickly before coding, interviews, or projects.
-
----
 
 # 📑 Table of Contents
 
