@@ -1,4 +1,7 @@
+```text
+React-Handbook/
 
+├── README.md
 
 ├── Part 1
 │   ├── React
@@ -7,7 +10,7 @@
 │   ├── JSX
 │   ├── Components
 │   └── Props
-│
+
 ├── Part 2
 │   ├── Tailwind
 │   ├── useState
@@ -18,7 +21,7 @@
 │   ├── Reconciliation
 │   ├── Hooks
 │   └── useEffect
-│
+
 ├── Part 3
 │   ├── useRef
 │   ├── Custom Hooks
@@ -26,10 +29,11 @@
 │   ├── Context + Local Storage
 │   ├── React Router
 │   └── Loader
-│
+
 └── Part 4
     ├── Redux Toolkit
     ├── Redux Flow
     ├── Common Mistakes
     ├── Interview Questions
     └── Final Revision
+```
